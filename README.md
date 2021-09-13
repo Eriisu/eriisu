@@ -1,5 +1,6 @@
-<h1 align="center">✨Hi, I'm Elise :)✨</h1>
-<h3 align="center">A front-end developer with a passion for design from London, UK 🇬🇧</h3>
+![githubbanner](https://user-images.githubusercontent.com/82185229/133105456-dcc08ccb-f370-4ffc-8535-595ea2a8dc45.png)
+
+<h2 align="center">A front-end developer with a passion for design from London, UK 🇬🇧</h2>
 
 - 🎓 I recently graduated from **Le Wagon** coding bootcamp, **batch #697**
 - 🌱 I'm currently learning ``React`` while improving my ``JavaScript``
