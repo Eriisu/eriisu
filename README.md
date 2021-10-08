@@ -5,7 +5,7 @@
 - 🎓 I recently graduated from **Le Wagon** coding bootcamp, **batch #697**
 - 🌱 I'm currently learning ``React`` while improving my ``JavaScript``
 - 💻 I love creating and using exciting, interactive UI features!
-- 🇯🇵 I have a degree in **Japanese** (話しましょう〜)
+- 🇯🇵 I have a degree in **Japanese** (話しましょう〜) 
 - 💬 I love meeting new people! Reach out and let's get coffee~
 - 📫 Send me an email at **emjburridge@gmail.com**!
 
