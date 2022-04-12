@@ -2,7 +2,7 @@
 
 <h2 align="center">A front-end developer with a passion for design from London, UK 🇬🇧</h2>
 
-- 🎓 I recently graduated from **Le Wagon** coding bootcamp, **batch #697**
+- 🎓 I graduated from **Le Wagon** coding bootcamp, **batch #697** in September 2021
 - 🌱 I'm currently learning ``React`` while improving my ``JavaScript``
 - 💻 I love creating and using exciting, interactive UI features!
 - 🇯🇵 I have a degree in **Japanese** (話しましょう〜)
